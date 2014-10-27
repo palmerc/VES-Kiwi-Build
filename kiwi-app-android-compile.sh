@@ -1,7 +1,5 @@
 #!/bin/bash 
 
-SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-
 . ./ves-kiwi-variables.sh
 
 mkdir -p "${KIWI_BUILD_DIR}"
