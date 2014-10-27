@@ -1,4 +1,4 @@
-## VES-Kiwi
+## VES-Kiwi Basic Build Scripts
 
 This is the basic VES-Kiwi compile using cmake. The variables file needs to be adjusted to suit your environment.
 
